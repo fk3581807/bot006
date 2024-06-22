@@ -1,0 +1,13 @@
+
+{
+  "name": "@vercel/build-utils/babel",
+  "version": "1.0.0",
+  "scripts": {
+    "command": "bot.py"
+  }
+}
+  "devDependencies": {
+    "babel-core": "^7.10.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^7.9.4"
+  }
